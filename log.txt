@@ -1,0 +1,10 @@
+file:D:\c≤‚ ‘\7-24\test.c line:48 date:Jul 24 2021 time:11:52:38 i=0
+file:D:\c≤‚ ‘\7-24\test.c line:48 date:Jul 24 2021 time:11:52:38 i=1
+file:D:\c≤‚ ‘\7-24\test.c line:48 date:Jul 24 2021 time:11:52:38 i=2
+file:D:\c≤‚ ‘\7-24\test.c line:48 date:Jul 24 2021 time:11:52:38 i=3
+file:D:\c≤‚ ‘\7-24\test.c line:48 date:Jul 24 2021 time:11:52:38 i=4
+file:D:\c≤‚ ‘\7-24\test.c line:48 date:Jul 24 2021 time:11:52:38 i=5
+file:D:\c≤‚ ‘\7-24\test.c line:48 date:Jul 24 2021 time:11:52:38 i=6
+file:D:\c≤‚ ‘\7-24\test.c line:48 date:Jul 24 2021 time:11:52:38 i=7
+file:D:\c≤‚ ‘\7-24\test.c line:48 date:Jul 24 2021 time:11:52:38 i=8
+file:D:\c≤‚ ‘\7-24\test.c line:48 date:Jul 24 2021 time:11:52:38 i=9
